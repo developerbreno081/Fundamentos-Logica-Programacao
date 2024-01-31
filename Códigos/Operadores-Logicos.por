@@ -11,14 +11,14 @@ programa
 					// ou: retorna False quando todas as condições forem falsas
 					// não: inverte, se a entrda for True = False/False = True
 					
-	a = 1
-	b = 1
-    resultado = a == 1 e b == 2
+	a = 10
+	b = 10
+    resultado = a == 10 e b == 10
 
     escreva("Operador [E] Resultado: ", resultado)
     escreva("\n")
 
-    a = 10
+    a = 9
     b = 3
     resultado = a != 12 ou b == 3
     escreva("Operador [OU] Resultado: ", resultado)
