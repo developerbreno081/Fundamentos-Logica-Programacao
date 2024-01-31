@@ -11,8 +11,8 @@ programa
 					// ou: retorna False quando todas as condições forem falsas
 					// não: inverte, se a entrda for True = False/False = True
 					
-		a = 1
-		b = 1
+	a = 1
+	b = 1
     resultado = a == 1 e b == 2
 
     escreva("Operador [E] Resultado: ", resultado)
