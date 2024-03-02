@@ -32,4 +32,10 @@ de qualquer cálculo:
 3. Divisão /
 4. Adição +
 5. Subtração -
-  
+
+### `Fundamentos de qualquer Linguagem de Programação `
+* Tipos de Dados
+* Declarações
+* Entrada e Saída
+* Operadores: Aritméticos, Relacionais e Lógicos
+* Estrutura de Controle: Desvio condicional e Laço de repetição
